@@ -97,8 +97,6 @@ public class GerenciadorGrafo {
                 (long) (quantidadeVertices + 1)
                         * (quantidadeVertices + 1);
 
-        // A matriz utiliza int.
-        // Cada int ocupa 4 bytes.
         long bytesPorPosicao = 4;
 
         return quantidadePosicoes
