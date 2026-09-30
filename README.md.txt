@@ -185,5 +185,6 @@ Os valores de memória são aproximados e podem variar de acordo com a JVM e as 
 ## Autora
 
 **Maria Eduarda**
+**Diego Junior**
 
 Curso de Sistemas de Informação — UFV Campus Rio Paranaíba.
